@@ -35,8 +35,7 @@ var songs = [
     "The World Has Turned and Left Me Here",
     "Tired Of Sex",
     "Undone (The Sweater Song)",
-    "Why Bother?",
-    "Zombie Bastards"
+    "Why Bother?"
 ]
 
 // regenerate the song label to be a random song from the list of songs
